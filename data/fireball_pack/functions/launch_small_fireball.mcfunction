@@ -1,5 +1,5 @@
 # Launch Small Fireball
-# AS Snowball
+# As: Tagged Snowball
 
 ### Summon Fireball
 execute rotated as @p run summon minecraft:small_fireball ^ ^ ^0.4

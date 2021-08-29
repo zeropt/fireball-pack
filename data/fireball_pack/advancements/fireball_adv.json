@@ -8,6 +8,6 @@
         }
     },
     "rewards": {
-        "function": "fireball_pack:give_fireball"
+        "function": "fireball_pack:crafting/craft_fireball"
     }
 }

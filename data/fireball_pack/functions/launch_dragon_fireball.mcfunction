@@ -1,5 +1,5 @@
 # Launch Fireball
-# AS Snowball
+# As: Tagged Snowball
 
 ### Summon Fireball
 execute rotated as @p run summon minecraft:dragon_fireball ^ ^ ^0.4
