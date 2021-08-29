@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fireball_pack:dragon_fireball"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fireball_pack:give_dragon_fireball"
+    }
+}
