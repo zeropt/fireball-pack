@@ -2,7 +2,7 @@
 # AS Snowball
 
 ### Summon Fireball
-execute rotated as @p run summon minecraft:dragon_fireball ^ ^ ^0.5
+execute rotated as @p run summon minecraft:dragon_fireball ^ ^ ^0.4
 
 ### Playsound
 playsound minecraft:entity.ender_dragon.shoot master @a ~ ~ ~ 0.8
