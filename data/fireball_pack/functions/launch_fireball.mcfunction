@@ -3,6 +3,7 @@
 
 ### Summon Fireball
 execute rotated as @p run summon minecraft:fireball ^ ^ ^0.4
+data modify entity @e[type=minecraft:fireball,limit=1,sort=nearest] Owner set from entity @s Owner
 
 ### Playsound
 playsound minecraft:entity.ghast.shoot master @a ~ ~ ~ 0.8
