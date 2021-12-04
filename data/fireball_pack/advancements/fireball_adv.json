@@ -3,11 +3,11 @@
         "unlocked": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "fireballs:small_fireball"
+                "recipe": "fireball_pack:fireball"
             }
         }
     },
     "rewards": {
-        "function": "fireballs:give_small_fireball"
+        "function": "fireball_pack:crafting/craft_fireball"
     }
 }
